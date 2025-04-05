@@ -1,0 +1,19 @@
+# Ignorar a pasta de dependências
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Ambiente
+.env
+.env.local
